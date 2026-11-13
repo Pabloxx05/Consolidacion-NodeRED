@@ -1,0 +1,11 @@
+# Credenciales de Node-RED
+flows_cred.json
+*_cred.json
+
+# Dependencias
+node_modules/
+
+# Archivos temporales
+*.log
+.DS_Store
+Thumbs.db
